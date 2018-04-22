@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<congty>
+   <nhanvien manv="NV01">
+      <hoten>Van Anh</hoten>
+      <luong>1000</luong>
+      <phongban>
+         <tenphong>Hanh Chinh</tenphong>
+         <dienthoai>09883434</dienthoai>
+      </phongban>
+   </nhanvien>
+   <nhanvien manv="NV02">
+      <hoten>Lan Anh</hoten>
+      <luong>1200</luong>
+      <phongban>
+         <tenphong>Nhan Su</tenphong>
+         <dienthoai>09883567</dienthoai>
+      </phongban>
+   </nhanvien>
+<nhanvien manv="NV03">
+      <hoten>Phan Hong Nam</hoten>
+      <luong>1000</luong>
+      <phongban>
+         <tenphong>Tuyen dung</tenphong>
+         <dienthoai>091241414</dienthoai>
+      </phongban>
+   </nhanvien>
+<nhanvien manv="NV04">
+      <hoten>Le Quoc Anh</hoten>
+      <luong>1000</luong>
+      <phongban>
+         <tenphong>Tuyen dung</tenphong>
+         <dienthoai>091241414</dienthoai>
+      </phongban>
+   </nhanvien>
+
+
+</congty>
